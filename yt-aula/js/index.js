@@ -1,0 +1,1 @@
+document.getElementById("texto").innerHTML="Meu texto texto <b>JS</b>!";
